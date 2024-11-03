@@ -11,7 +11,7 @@ This is a simple educational tool to demonstrate basic WAF bypass techniques usi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Waf_bypass_tool.git
+   git clone https://github.com/pulkit6732/Waf_bypass_tool.git
    cd waf_bypass_tool 
 
  pip install -r requirements.txt 
