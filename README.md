@@ -14,9 +14,6 @@ This is a simple educational tool to demonstrate basic WAF bypass techniques usi
    git clone https://github.com/yourusername/waf_bypass_tool.git
    cd waf_bypass_tool 
 
-DON't forgot to change the payload area in the waf_bypass.py
-and you can also change the code for the example.com at line no 38
-For install the requirement
  pip install -r requirements.txt 
 
 
